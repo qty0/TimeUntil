@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "152702500527",
+    "firebase_url": "https://timeuntil-f51ed.firebaseio.com",
+    "project_id": "timeuntil-f51ed",
+    "storage_bucket": "timeuntil-f51ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152702500527:android:aa4624686d9c0979ef1e5a",
+        "android_client_info": {
+          "package_name": "com.example.radom_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152702500527-ote5gv5roqosg9f1sabd6gikchko7ag3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuUoXKfwa2bwj_CzASBpf54F4H9dxCiC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152702500527-ote5gv5roqosg9f1sabd6gikchko7ag3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
